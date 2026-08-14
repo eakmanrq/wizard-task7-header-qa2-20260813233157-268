@@ -1,2 +1,1 @@
-base recovery
-qa-run-1786680537543
+resolved head and base intent
